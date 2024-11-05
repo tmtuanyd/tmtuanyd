@@ -1,5 +1,19 @@
-## Hi, I'm Tuan 👋
+## Hi, I'm Tuan Tran 👋
 I'm a React developer from Vietnam. As a React developer, I specialize in building high-quality, cross-platform web applications using the React framework
+
+### Frontend Skills
+- **Libraries & Frameworks**: Familiar with popular libraries for React.js and Next.js, including Material UI, Redux, Formik, and more.
+- **Client-Side Scripting**: Proficient in HTML, JavaScript, jQuery, CSS, Bootstrap, Tailwind CSS.
+- **Frontend Tools & Preprocessors**: Experienced with Webpack, TypeScript, ES6, SASS, SCSS, LESS, and Google Maps API.
+- **User Tracking**: Skilled in implementing Google Tag Manager, Lucky Orange, and Facebook Pixel for analytics.
+- **Payment Integration**: Hands-on experience with Stripe, PayPal, Payment Assist, and Payl8r.
+- **Responsive Development**: Expert in mobile-first design and creating responsive layouts.
+- **Version Control**: In-depth knowledge of Git for efficient project management.
+
+### Working Style
+- I work independently and am available for full-time engagements.
+- Flexible, quick to learn, and committed to delivering top-notch service and productivity.
+- 
 ### Technologies & Tools
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
