@@ -1,5 +1,5 @@
 ## Hi, I'm Tuan Tran 👋
-I'm a React developer from Vietnam. As a React developer, I specialize in building high-quality, cross-platform web applications using the React framework
+I'm a React developer from Vietnam. As a React developer, I am dedicated to building high-performance, responsive web applications.
 
 ### Frontend Skills
 - **Libraries & Frameworks**: Familiar with popular libraries for React.js and Next.js, including Material UI, Redux, Formik, and more.
@@ -10,9 +10,8 @@ I'm a React developer from Vietnam. As a React developer, I specialize in buildi
 - **Responsive Development**: Expert in mobile-first design and creating responsive layouts.
 - **Version Control**: In-depth knowledge of Git for efficient project management.
 
-### Working Style
-- I work independently and am available for full-time engagements.
-- Flexible, quick to learn, and committed to delivering top-notch service and productivity.
+### Professional Approach
+As an independent developer, I bring reliability, flexibility, and a proactive mindset to every project. I am committed to continuous learning and adapting to the latest industry standards to provide high-quality service and productivity.
   
 ### Technologies & Tools
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
@@ -29,19 +28,9 @@ I'm a React developer from Vietnam. As a React developer, I specialize in buildi
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmtuanyd" alt="tmtuanyd" /></a> </p>
 
-### Connect with me
-- [LinkedIn](https://www.linkedin.com/in/tuan-tran-71ba90191/)
-<!--
-**tmtuanyd/tmtuanyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with Me
+- **Gmail**: [tmtuanydl@gmail.com](mailto:tmtuanyd@gmail.com)
+- **LinkedIn**: [linkedin.com/in/tuan-tran-71ba90191](https://www.linkedin.com/in/tuan-tran-71ba90191)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Best regards,**  
+**Tuan Tran**
