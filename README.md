@@ -4,6 +4,11 @@ I'm a React developer from Vietnam. As a React developer, I specialize in buildi
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+- ![Google Maps API](https://img.shields.io/badge/-Google%20Maps%20API-4285F4?logo=google-maps&logoColor=white)
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tmtuanyd&label=Profile%20views&color=0e75b6&style=flat" alt="tmtuanyd" /> </p>
