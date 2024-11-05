@@ -13,7 +13,7 @@ I'm a React developer from Vietnam. As a React developer, I specialize in buildi
 ### Working Style
 - I work independently and am available for full-time engagements.
 - Flexible, quick to learn, and committed to delivering top-notch service and productivity.
-- 
+  
 ### Technologies & Tools
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
