@@ -29,7 +29,7 @@ As an independent developer, I bring reliability, flexibility, and a proactive m
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmtuanyd" alt="tmtuanyd" /></a> </p>
 
 ### Connect with Me
-- **Gmail**: [tmtuanydl@gmail.com](mailto:tmtuanyd@gmail.com)
+- **Gmail**: [tmtuanyd@gmail.com](mailto:tmtuanyd@gmail.com)
 - **LinkedIn**: [linkedin.com/in/tuan-tran-71ba90191](https://www.linkedin.com/in/tuan-tran-71ba90191)
 
 **Best regards,**  
