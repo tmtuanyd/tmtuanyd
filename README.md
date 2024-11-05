@@ -6,6 +6,10 @@ I'm a React developer from Vietnam. As a React developer, I specialize in buildi
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tmtuanyd&label=Profile%20views&color=0e75b6&style=flat" alt="tmtuanyd" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmtuanyd" alt="tmtuanyd" /></a> </p>
+
 ### Connect with me
 - [LinkedIn](https://www.linkedin.com/in/tuan-tran-71ba90191/)
 <!--
