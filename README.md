@@ -24,13 +24,13 @@ As an independent developer, I bring reliability, flexibility, and a proactive m
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tmtuanyd&label=Profile%20views&color=0e75b6&style=flat" alt="tmtuanyd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmtuanyd" alt="tmtuanyd" /></a> </p>
-
 ### Connect with Me
 - **Gmail**: [tmtuanyd@gmail.com](mailto:tmtuanyd@gmail.com)
 - **LinkedIn**: [linkedin.com/in/tuan-tran-71ba90191](https://www.linkedin.com/in/tuan-tran-71ba90191)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tmtuanyd&label=Profile%20views&color=0e75b6&style=flat" alt="tmtuanyd" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmtuanyd" alt="tmtuanyd" /></a> </p>
 
 **Best regards,**  
 **Tuan Tran**
