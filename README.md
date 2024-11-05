@@ -1,5 +1,5 @@
-## Hi, I'm Tuan Tran 👋
-I'm a React developer from Vietnam. As a React developer, I am dedicated to building high-performance, responsive web applications.
+## Hi there 👋
+I'm Tuan Tran, a dedicated React developer with solid experience in building responsive, user-focused web applications.
 
 ### Frontend Skills
 - **Libraries & Frameworks**: Familiar with popular libraries for React.js and Next.js, including Material UI, Redux, Formik, and more.
