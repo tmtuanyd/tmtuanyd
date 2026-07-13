@@ -2,107 +2,168 @@
 
 # Hi, I'm Tuan Tran 👋
 
-### Frontend Engineer • React • Next.js • TypeScript
+### Frontend Engineer | React • Next.js • TypeScript
 
-Building scalable, high-performance web applications with modern technologies.
+Building scalable, high-performance, and user-centric web applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuan-tran-71ba90191)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:tmtuanyd@gmail.com)
+<p>
+<a href="mailto:tmtuanyd@gmail.com">Email</a> •
+<a href="https://www.linkedin.com/in/tuan-tran-71ba90191">LinkedIn</a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=tmtuanyd&style=flat-square&color=blue" />
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-I'm a Frontend Engineer with experience developing modern web applications for international clients.
+I'm a Frontend Engineer with extensive experience building modern web applications using **React.js**, **Next.js**, and **TypeScript**.
 
-I specialize in building scalable React and Next.js applications with clean architecture, excellent user experience, and maintainable code.
+Throughout my career, I've collaborated with international clients and distributed engineering teams to deliver scalable products for businesses across multiple industries. I enjoy solving complex frontend challenges, designing maintainable architectures, and creating intuitive user experiences.
 
-### Highlights
+## Highlights
 
-- 🌍 Worked with international clients across multiple countries
-- ⚛️ Specialized in React.js & Next.js
-- 🚀 Focused on performance, scalability and UX
-- 💳 Experience integrating payment gateways
-- ☁️ Experience with AWS, Supabase and Firebase
-- 🤝 Comfortable working remotely with distributed teams
+- 🌍 Collaborated with international clients across multiple countries
+- ⚛️ Specialized in React.js, Next.js, and TypeScript
+- 🚀 Focused on performance, scalability, and clean architecture
+- ☁️ Experience with AWS, Supabase, and Firebase
+- 💳 Built secure payment and subscription systems
+- 📱 Strong advocate of responsive and mobile-first development
+- 🤝 Experienced working in fully remote teams
 
 ---
 
-# 🚀 Tech Stack
+# Industry Experience
 
-### Frontend
+Over the years, I've contributed to products across multiple business domains.
 
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?logo=mui)
+### 🛡️ Insurance Technology (InsurTech)
 
-### Backend & Cloud
+- Policy management systems
+- Client & broker portals
+- Secure document management
+- Claims workflows
+- Subscription & billing systems
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
+### ☁️ SaaS Platforms
 
-### Integrations
+- Multi-tenant applications
+- Dashboard systems
+- Reporting & analytics
+- Role-based access control
+- Admin portals
+
+### 📸 Digital Asset Management
+
+- Photo & video management platforms
+- Large-scale file uploads
+- Media processing pipelines
+- Cloud storage integrations
+- Image optimization
+
+### 💳 Payment Solutions
 
 - Stripe
 - PayPal
-- Google Maps API
+- Subscription billing
+- Invoice generation
+- Payment workflows
+
+### 📍 Mapping & Location Services
+
+- Google Maps Platform
+- Geolocation
+- Address autocomplete
+- Interactive maps
+
+### 📊 Analytics & Marketing
+
 - Google Tag Manager
 - Facebook Pixel
 - Lucky Orange
-
-### Tools
-
-Git • GitHub • Webpack • Figma • REST APIs
+- User behavior tracking
 
 ---
 
-# 💼 Experience
+# Technical Expertise
 
-### Frontend Development
+## Frontend
 
 - React.js
 - Next.js
 - TypeScript
+- JavaScript (ES6+)
+- Redux Toolkit
+- Material UI
+- Tailwind CSS
+- Bootstrap
 - Responsive Design
-- Performance Optimization
-- API Integration
+- Accessibility
 
-### Payment Integration
+## Backend & Cloud
 
-- Stripe
-- PayPal
-- Payment Assist
-- Payl8r
+- Node.js
+- REST APIs
+- AWS S3
+- Supabase
+- Firebase
 
-### Analytics
+## Specialized Experience
 
-- Google Tag Manager
-- Facebook Pixel
-- Lucky Orange
+- Large-scale file upload systems
+- Media processing & video conversion
+- Payment gateway integration
+- Authentication & authorization
+- PDF generation
+- Performance optimization
+- Third-party API integration
+- Cloud storage architecture
+- Analytics implementation
+- Multi-role permission systems
+
+## Development Tools
+
+- Git & GitHub
+- Webpack
+- Figma
+- Postman
+- VS Code
 
 ---
 
-# 📈 GitHub Analytics
+# Engineering Principles
+
+- Build scalable and maintainable applications
+- Write clean and reusable code
+- Prioritize performance and user experience
+- Design reusable component systems
+- Follow modern frontend best practices
+- Deliver production-ready software
+- Continuously learn and improve
+
+---
+
+# Currently Exploring
+
+- AI-powered web applications
+- Advanced Next.js architecture
+- Performance engineering
+- Design systems
+- Cloud-native frontend development
+
+---
+
+# GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tmtuanyd&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tmtuanyd&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmtuanyd&layout=compact&hide_border=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=tmtuanyd&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
-
----
-
-# 🔥 Contribution Streak
 
 <p align="center">
 
@@ -112,26 +173,7 @@ Git • GitHub • Webpack • Figma • REST APIs
 
 ---
 
-# 📊 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tmtuanyd&theme=github-compact&hide_border=true"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- AI-powered Web Applications
-- Advanced Next.js Architecture
-- Performance Engineering
-- Cloud-native Frontend
-
----
-
-# 📫 Contact
+# Let's Connect
 
 📧 **Email**
 
@@ -145,8 +187,6 @@ https://www.linkedin.com/in/tuan-tran-71ba90191
 
 <div align="center">
 
-> *"Great user experiences begin with clean code."*
-
-![](https://komarev.com/ghpvc/?username=tmtuanyd&style=flat-square)
+*"Building software that is scalable, maintainable, and delivers exceptional user experiences."*
 
 </div>
