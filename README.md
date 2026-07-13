@@ -1,104 +1,152 @@
-# 👋 Hi, I'm Tuan Tran
+<div align="center">
 
-Frontend Engineer specializing in **React.js**, **Next.js**, and **TypeScript**, with experience building modern, scalable, and user-focused web applications.
+# Hi, I'm Tuan Tran 👋
 
-I enjoy transforming complex business requirements into clean, maintainable solutions with a strong focus on performance, responsive design, and user experience.
+### Frontend Engineer • React • Next.js • TypeScript
+
+Building scalable, high-performance web applications with modern technologies.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuan-tran-71ba90191)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:tmtuanyd@gmail.com)
+
+</div>
 
 ---
 
-## 🌍 International Experience
+# 👨‍💻 About Me
 
-I've had the opportunity to work with international clients across different countries, collaborating remotely to deliver high-quality web applications. These experiences have strengthened my communication skills, adaptability, and ability to work effectively in distributed teams while meeting project deadlines and business goals.
+I'm a Frontend Engineer with experience developing modern web applications for international clients.
+
+I specialize in building scalable React and Next.js applications with clean architecture, excellent user experience, and maintainable code.
+
+### Highlights
+
+- 🌍 Worked with international clients across multiple countries
+- ⚛️ Specialized in React.js & Next.js
+- 🚀 Focused on performance, scalability and UX
+- 💳 Experience integrating payment gateways
+- ☁️ Experience with AWS, Supabase and Firebase
+- 🤝 Comfortable working remotely with distributed teams
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux\&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?logo=mui\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?logo=mui)
 
 ### Backend & Cloud
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase\&logoColor=black)
-![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?logo=amazonaws\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
 
 ### Integrations
 
-* 💳 Stripe, PayPal, Payment Assist, Payl8r
-* 📍 Google Maps API
-* 📈 Google Tag Manager (GTM), Facebook Pixel, Lucky Orange
-* 🔗 REST APIs
+- Stripe
+- PayPal
+- Google Maps API
+- Google Tag Manager
+- Facebook Pixel
+- Lucky Orange
 
-### Development Tools
+### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack\&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma\&logoColor=white)
-
----
-
-## 💼 What I Do
-
-* ⚛️ Build scalable React.js and Next.js applications
-* 📱 Develop responsive, mobile-first user interfaces
-* 🔗 Integrate third-party APIs and payment gateways
-* ☁️ Work with cloud services including AWS S3, Supabase, and Firebase
-* ⚡ Optimize application performance and user experience
-* 🧩 Write clean, reusable, and maintainable code
-* 🤝 Collaborate effectively with international clients and remote teams
+Git • GitHub • Webpack • Figma • REST APIs
 
 ---
 
-## 🌱 Currently Learning
+# 💼 Experience
 
-* Advanced Next.js Architecture
-* AI-powered Web Applications
-* Performance Optimization
-* Cloud-native Frontend Development
+### Frontend Development
+
+- React.js
+- Next.js
+- TypeScript
+- Responsive Design
+- Performance Optimization
+- API Integration
+
+### Payment Integration
+
+- Stripe
+- PayPal
+- Payment Assist
+- Payl8r
+
+### Analytics
+
+- Google Tag Manager
+- Facebook Pixel
+- Lucky Orange
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tmtuanyd&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmtuanyd&layout=compact&theme=transparent&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tmtuanyd&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmtuanyd&layout=compact&hide_border=true&theme=github_dark"/>
+
 </p>
+
+---
+
+# 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tmtuanyd&theme=transparent&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=tmtuanyd&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tmtuanyd&theme=flat&no-frame=true&margin-w=15&margin-h=15&column=4" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tmtuanyd&theme=github-compact&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📫 Connect with Me
+# 🌱 Currently Learning
 
-* 📧 **Email:** [mailto:tmtuanyd@gmail.com](mailto:tmtuanyd@gmail.com)
-* 💼 **LinkedIn:** https://www.linkedin.com/in/tuan-tran-71ba90191
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tmtuanyd&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+- AI-powered Web Applications
+- Advanced Next.js Architecture
+- Performance Engineering
+- Cloud-native Frontend
 
 ---
 
-> **"Passionate about building fast, scalable, and user-friendly web applications with modern technologies."**
+# 📫 Contact
+
+📧 **Email**
+
+**tmtuanyd@gmail.com**
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/tuan-tran-71ba90191
+
+---
+
+<div align="center">
+
+> *"Great user experiences begin with clean code."*
+
+![](https://komarev.com/ghpvc/?username=tmtuanyd&style=flat-square)
+
+</div>
