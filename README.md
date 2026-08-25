@@ -2,7 +2,7 @@
 
 # Hi, I'm Tuan Tran 👋
 
-### Frontend Engineer | React • Next.js • TypeScript
+### Full-stack Engineer with a Strong Frontend Focus
 
 Building scalable, high-performance, and user-centric web applications.
 
@@ -19,71 +19,25 @@ Building scalable, high-performance, and user-centric web applications.
 
 # About Me
 
-I'm a Frontend Engineer with extensive experience building modern web applications using **React.js**, **Next.js**, and **TypeScript**.
+I'm a **Full-stack Engineer with a strong frontend background**, specializing in **React, Next.js, TypeScript, and modern web application architecture**.
 
-Throughout my career, I've collaborated with international clients and distributed engineering teams to deliver scalable products for businesses across multiple industries. I enjoy solving complex frontend challenges, designing maintainable architectures, and creating intuitive user experiences.
+I have **6+ years of frontend experience and 2+ years of backend experience**, working with international clients and distributed engineering teams to build and maintain production applications.
+
+My main strength is building complex frontend applications with clean architecture and excellent user experiences, while also being comfortable working across the backend, database, cloud infrastructure, authentication, payments, and third-party integrations.
+
+I enjoy solving real-world engineering problems, improving application performance, and turning business requirements into reliable, maintainable products.
 
 ## Highlights
 
-- 🌍 Collaborated with international clients across multiple countries
-- ⚛️ Specialized in React.js, Next.js, and TypeScript
-- 🚀 Focused on performance, scalability, and clean architecture
-- ☁️ Experience with AWS, Supabase, and Firebase
-- 💳 Built secure payment and subscription systems
-- 📱 Strong advocate of responsive and mobile-first development
-- 🤝 Experienced working in fully remote teams
-
----
-
-# Industry Experience
-
-Over the years, I've contributed to products across multiple business domains.
-
-### 🛡️ Insurance Technology (InsurTech)
-
-- Policy management systems
-- Client & broker portals
-- Secure document management
-- Claims workflows
-- Subscription & billing systems
-
-### ☁️ SaaS Platforms
-
-- Multi-tenant applications
-- Dashboard systems
-- Reporting & analytics
-- Role-based access control
-- Admin portals
-
-### 📸 Digital Asset Management
-
-- Photo & video management platforms
-- Large-scale file uploads
-- Media processing pipelines
-- Cloud storage integrations
-- Image optimization
-
-### 💳 Payment Solutions
-
-- Stripe
-- PayPal
-- Subscription billing
-- Invoice generation
-- Payment workflows
-
-### 📍 Mapping & Location Services
-
-- Google Maps Platform
-- Geolocation
-- Address autocomplete
-- Interactive maps
-
-### 📊 Analytics & Marketing
-
-- Google Tag Manager
-- Facebook Pixel
-- Lucky Orange
-- User behavior tracking
+* 🌍 Experience working with international clients and distributed teams
+* ⚛️ Strong expertise in React, Next.js, TypeScript, and modern frontend architecture
+* 🧩 Full-stack experience across frontend, backend, databases, and cloud services
+* 🚀 Focused on performance, scalability, maintainability, and user experience
+* ☁️ Experience with AWS, Supabase, Firebase, and cloud-based architectures
+* 💳 Built payment, subscription, and billing workflows
+* 🔐 Experience with authentication, authorization, and role-based access control
+* 📱 Responsive and mobile-first application development
+* 🧪 Experience with automated testing and quality-focused development
 
 ---
 
@@ -91,67 +45,161 @@ Over the years, I've contributed to products across multiple business domains.
 
 ## Frontend
 
-- React.js
-- Next.js
-- TypeScript
-- JavaScript (ES6+)
-- Redux Toolkit
-- Material UI
-- Tailwind CSS
-- Bootstrap
-- Responsive Design
-- Accessibility
+* React.js
+* Next.js (App Router)
+* TypeScript
+* JavaScript (ES6+)
+* Redux Toolkit
+* Tailwind CSS
+* Material UI
+* Bootstrap
+* HTML5
+* Responsive Design
+* Accessibility
+* Server-side Rendering (SSR)
+* Client-side Rendering (CSR)
+* Incremental Static Regeneration (ISR)
 
-## Backend & Cloud
+## Backend
 
-- Node.js
-- REST APIs
-- AWS S3
-- Supabase
-- Firebase
+* Node.js
+* REST APIs
+* Supabase
+* PostgreSQL
+* Authentication & Authorization
+* Role-based Access Control
+* Server-side Business Logic
+* API Integration
+* Webhooks
 
-## Specialized Experience
+## Cloud & Infrastructure
 
-- Large-scale file upload systems
-- Media processing & video conversion
-- Payment gateway integration
-- Authentication & authorization
-- PDF generation
-- Performance optimization
-- Third-party API integration
-- Cloud storage architecture
-- Analytics implementation
-- Multi-role permission systems
+* AWS S3
+* Supabase
+* Firebase
+* Vercel
+* Cloudflare
+* Cloud Storage Architecture
+* File Upload & Processing Pipelines
+
+## Payments & Integrations
+
+* Stripe
+* PayPal
+* Subscription Billing
+* Invoice Generation
+* Payment Workflows
+* Third-party API Integrations
+* Google Maps Platform
+* Mapbox
+* Resend
+* Firebase Cloud Messaging
+
+## Testing & Quality
+
+* Jest
+* React Testing Library
+* Playwright
+* Unit Testing
+* Integration Testing
+* End-to-end Testing
+* Performance Optimization
+* Error Handling & Monitoring
 
 ## Development Tools
 
-- Git & GitHub
-- Webpack
-- Figma
-- Postman
-- VS Code
+* Git & GitHub
+* Webpack
+* pnpm
+* Turborepo
+* Postman
+* Figma
+* VS Code
 
 ---
 
-# Engineering Principles
+# What I've Built
 
-- Build scalable and maintainable applications
-- Write clean and reusable code
-- Prioritize performance and user experience
-- Design reusable component systems
-- Follow modern frontend best practices
-- Deliver production-ready software
-- Continuously learn and improve
+I have worked on production applications across several domains, including:
+
+### 🛡️ Insurance & InsurTech
+
+* Policy management platforms
+* Broker and client portals
+* Secure document management
+* Claims workflows
+* Policy-based billing and subscriptions
+* Role-based access control
+* Admin and management systems
+
+### ☁️ SaaS Platforms
+
+* Multi-tenant applications
+* Dashboard and analytics systems
+* Admin portals
+* User management
+* Role and permission systems
+* Subscription-based products
+
+### 📸 Digital Asset Management
+
+* Photo and video management platforms
+* Large-scale file upload systems
+* AWS S3 integrations
+* Image and video processing
+* Thumbnail generation
+* Media conversion pipelines
+* Cloud storage management
+
+### 💳 Payments & Billing
+
+* Stripe integrations
+* Subscription management
+* Payment workflows
+* Invoice generation
+* Discounts and promotional billing
+* Webhook-based payment processing
+
+### 📍 Maps & Location
+
+* Interactive maps
+* Geolocation
+* Address autocomplete
+* Location-based features
+* Google Maps and Mapbox integrations
+
+### 📊 Analytics & Marketing
+
+* Google Tag Manager
+* Facebook Pixel
+* User behavior tracking
+* Conversion tracking
+* Analytics integrations
+
+---
+
+# Engineering Focus
+
+I care about building software that is:
+
+* 🧱 **Maintainable** — clear architecture and reusable components
+* 🚀 **Performant** — optimized rendering, loading, and data handling
+* 🔒 **Secure** — proper authentication, authorization, and data access
+* 📈 **Scalable** — designed to grow with users and business requirements
+* 🧪 **Reliable** — tested and production-ready
+* 🎯 **User-focused** — intuitive experiences and thoughtful UX
+* 🤝 **Collaborative** — effective communication within distributed teams
 
 ---
 
 # Currently Exploring
 
-- AI-powered web applications
-- Advanced Next.js architecture
-- Performance engineering
-- Design systems
-- Cloud-native frontend development
+* 🤖 AI-powered web applications
+* ⚡ Advanced Next.js and React architecture
+* 🏗️ Full-stack application architecture
+* 🚀 Web performance engineering
+* ☁️ Cloud-native application development
+* 🧩 Design systems and scalable UI architecture
 
 ---
 
@@ -177,16 +225,16 @@ Over the years, I've contributed to products across multiple business domains.
 
 📧 **Email**
 
-**tmtuanyd@gmail.com**
+<a href="mailto:tmtuanyd@gmail.com">[tmtuanyd@gmail.com](mailto:tmtuanyd@gmail.com)</a>
 
 💼 **LinkedIn**
 
-https://www.linkedin.com/in/tuan-tran-71ba90191
+<a href="https://www.linkedin.com/in/tuan-tran-71ba90191">linkedin.com/in/tuan-tran-71ba90191</a>
 
 ---
 
 <div align="center">
 
-*"Building software that is scalable, maintainable, and delivers exceptional user experiences."*
+*"Building scalable software with a strong focus on frontend quality, performance, and user experience."*
 
 </div>
