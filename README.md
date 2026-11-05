@@ -4,10 +4,10 @@
 
 ### Senior Full-Stack Engineer with a Strong Frontend Focus
 
-Building scalable, high-performance, and user-centric web applications for startups and international teams.
+Building scalable, high-performance, and <b>AI-powered</b> web applications for startups and international teams.
 
 <p>
-  <a href="https://portfolio-tmtuanyds-projects.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View_my_work-111317?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://portfolio-tuantran.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View_my_work-111317?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:tmtuanyd@gmail.com"><img src="https://img.shields.io/badge/Email-tmtuanyd%40gmail.com-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/tuan-tran-71ba90191"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Open_to-Roles_%26_Projects-16a34a?style=for-the-badge" alt="Open to roles and projects" />
@@ -36,6 +36,29 @@ My strongest area is building complex frontend applications with clean architect
 * 💳 Integrated Stripe checkout, subscriptions, and webhooks
 * 🧪 Keep releases safe with unit, integration, and end-to-end tests
 * 👥 Mentor developers and work directly with founders
+
+---
+
+## 🤖 AI in Production and in My Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-GPT--4o-111317?style=for-the-badge" alt="OpenAI API, GPT-4o" />
+  <img src="https://img.shields.io/badge/Claude_Code-AI--first_workflow-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Cursor-Daily_driver-111317?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+</p>
+
+**AI features I've shipped to production**
+
+* 🧾 **Document AI (InsureVault):** GPT-4o vision reads scanned valuation forms and creates inventory items as structured JSON, replacing manual data entry
+* 🎥 **AI video moderation (ReelWork):** screens every candidate video with OpenAI; I added an incident mode that keeps reels flowing through an OpenAI outage, alerts when a video cannot be screened, and moved the moderation and rating calls onto one shared OpenAI client
+* 🛍️ **AI shopping assistant (multi-brand e-commerce):** multi-chat assistant with message retry and reply feedback, plus search by image
+* 💬 **AI assistant chat (Web3 app):** OpenAI Assistants chat inside a Solana bridge app
+
+**How I build with AI**
+
+* ⚙️ **AI-first delivery with guardrails:** I work with Claude Code and Cursor every day, and I built hooks that block a commit or PR until a claim-by-claim review checklist is complete, plus a reviewer agent that checks changes without the author's context
+* 🛡️ **Fail-safe by design:** fallback modes and degraded-mode alerts, so an AI provider outage does not block the product
+* 📐 **Structured output and prompt design:** prompts that return structured JSON the app can use directly
 
 ---
 
@@ -174,7 +197,7 @@ I'm open to **senior full-stack and frontend roles** and to **freelance projects
 
 💼 **LinkedIn:** [linkedin.com/in/tuan-tran-71ba90191](https://www.linkedin.com/in/tuan-tran-71ba90191)
 
-🌐 **Portfolio:** [portfolio-tmtuanyds-projects.vercel.app](https://portfolio-tmtuanyds-projects.vercel.app)
+🌐 **Portfolio:** [portfolio-tuantran.vercel.app](https://portfolio-tuantran.vercel.app)
 
 ---
 
