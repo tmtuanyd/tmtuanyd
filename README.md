@@ -1,185 +1,24 @@
-<div align="center">
+# Hi, I'm Tuan Tran
 
-# Hi, I'm Tuan Tran 👋
+**Senior Full-Stack Engineer** · React, Next.js, TypeScript · Node.js, Supabase, PostgreSQL · Hanoi, Vietnam (remote)
 
-### Full-stack Engineer with a Strong Frontend Focus
+I've built SaaS, marketplace, enterprise, and Web3 products for 7 years. I started on the frontend and still care most about what users touch; since 2025 I've owned products across the stack, from the API and database to the UI. I ship production AI features and work AI-first with Claude Code and Cursor, backed by review and tests.
 
-Building scalable, high-performance, and user-centric web applications.
+[Portfolio](https://portfolio-tmtuanyds-projects.vercel.app) · [LinkedIn](https://www.linkedin.com/in/tuan-tran-71ba90191) · [Email](mailto:tmtuanyd@gmail.com)
 
-<p>
-  <a href="mailto:tmtuanyd@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/tuan-tran-71ba90191">LinkedIn</a>
-</p>
+## Recent work
 
-<img src="https://komarev.com/ghpvc/?username=tmtuanyd&style=flat-square&color=blue" alt="Profile views" />
+- **[ReelWork](https://www.reelwork.com.au)** (Australia): video-first hospitality hiring marketplace. Cut ~1.4 MB of first-load JavaScript across 14 routes, kept AI video moderation running through an OpenAI outage, and brought core flows to WCAG AA.
+- **[InsureVault](https://www.insurevault.co.nz)** (New Zealand): multi-tenant insurance SaaS. Led a platform with 5 role-based portals, designed its 230+ route API with Bearer-token auth shared by the mobile app, and added GPT-4o document extraction.
+- **[Pipelyne by Swyft Energy](https://www.swyftenergy.ie)** (Ireland): white-label lead-capture SaaS with a no-code questionnaire builder and Stripe checkout.
+- **[Datameer](https://www.datameer.com)** (US): enterprise data-transformation UI for Snowflake, with drag-and-drop workflow editing.
 
-</div>
+Most of this code lives in private client repositories, so this profile shows little of it.
 
----
+## Stack
 
-## About Me
-
-I'm a **Full-stack Engineer with a strong frontend background**, specializing in **React, Next.js, TypeScript, and modern web application architecture**.
-
-With **6+ years of frontend experience and 2+ years of backend experience**, I've worked with international clients and distributed engineering teams to build and maintain production applications across different industries.
-
-My strongest area is building complex frontend applications with clean architecture, reusable components, and excellent user experiences. I'm also comfortable working across the backend, database, cloud infrastructure, authentication, payments, and third-party integrations.
-
-I enjoy solving complex engineering problems, improving application performance, and turning business requirements into reliable and maintainable products.
-
-### Highlights
-
-* 🌍 Experience working with international clients and distributed teams
-* ⚛️ Strong expertise in React, Next.js, and TypeScript
-* 🧩 Full-stack experience across frontend, backend, databases, and cloud
-* 🚀 Focused on performance, scalability, and maintainability
-* ☁️ Experience with AWS, Supabase, Firebase, and Vercel
-* 💳 Experience building payment, subscription, and billing systems
-* 🔐 Authentication, authorization, and role-based access control
-* 📱 Responsive and mobile-first application development
-* 🧪 Experience with unit, integration, and end-to-end testing
-
----
-
-## Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,html,css" alt="Frontend technologies" />
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase" alt="Backend technologies" />
-</p>
-
-### Cloud & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,vercel,firebase,cloudflare" alt="Cloud technologies" />
-</p>
-
-### Testing & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=jest,git,github,webpack,figma,postman,vscode" alt="Development tools" />
-</p>
-
-### Additional Technologies
-
-* REST APIs
-* Stripe
-* PayPal
-* Mapbox
-* Google Maps Platform
-* Resend
-* Firebase Cloud Messaging
-* Webhooks
-* S3-compatible storage
-* PDF generation
-* Media processing
-
----
-
-## Industry Experience
-
-### 🛡️ Insurance & InsurTech
-
-* Policy management platforms
-* Broker and client portals
-* Claims workflows
-* Secure document management
-* Policy-based billing and subscriptions
-* Role-based access control
-* Administrative systems
-
-### ☁️ SaaS Platforms
-
-* Multi-tenant applications
-* Dashboard and analytics systems
-* Admin portals
-* User management
-* Role and permission systems
-* Subscription-based products
-
-### 📸 Digital Asset Management
-
-* Photo and video management platforms
-* Large-scale file upload systems
-* AWS S3 integrations
-* Image and video processing
-* Thumbnail generation
-* Media conversion pipelines
-* Cloud storage management
-
-### 💳 Payments & Billing
-
-* Stripe integrations
-* Subscription management
-* Payment workflows
-* Invoice generation
-* Discount and promotional billing
-* Webhook-based payment processing
-
-### 📍 Maps & Location
-
-* Interactive maps
-* Geolocation
-* Address autocomplete
-* Location-based features
-* Google Maps and Mapbox integrations
-
-### 📊 Analytics & Marketing
-
-* Google Tag Manager
-* Facebook Pixel
-* User behavior tracking
-* Conversion tracking
-* Analytics integrations
-
----
-
-## Engineering Focus
-
-I care about building software that is:
-
-* 🧱 **Maintainable** — clean architecture and reusable components
-* 🚀 **Performant** — optimized rendering, loading, and data handling
-* 🔒 **Secure** — proper authentication, authorization, and data access
-* 📈 **Scalable** — designed to grow with users and business requirements
-* 🧪 **Reliable** — tested and production-ready
-* 🎯 **User-focused** — intuitive and thoughtful user experiences
-* 🤝 **Collaborative** — effective communication within distributed teams
-
----
-
-## Currently Exploring
-
-* 🤖 AI-powered web applications
-* ⚡ Advanced React and Next.js architecture
-* 🏗️ Full-stack application architecture
-* 🚀 Web performance engineering
-* ☁️ Cloud-native application development
-* 🧩 Scalable design systems
-
----
-
-## Let's Connect
-
-I'm always open to discussing interesting products, engineering challenges, and remote opportunities.
-
-📧 **Email:** [tmtuanyd@gmail.com](mailto:tmtuanyd@gmail.com)
-
-💼 **LinkedIn:** [linkedin.com/in/tuan-tran-71ba90191](https://www.linkedin.com/in/tuan-tran-71ba90191)
-
----
-
-<div align="center">
-
-### Thanks for visiting! 👋
-
-*"Building scalable software with a strong focus on frontend quality, performance, and user experience."*
-
-</div>
+**Frontend:** React, Next.js, TypeScript, Redux Toolkit, TanStack Query, Tailwind CSS, Material UI, Three.js
+**Backend & data:** Node.js, Fastify, Supabase, PostgreSQL, REST, OpenAPI, GraphQL, Stripe
+**Cloud:** AWS (S3, Lambda, MediaConvert), Cloudflare, Firebase, Vercel
+**AI:** OpenAI API (GPT-4o vision, moderation, Assistants), Claude Code, Cursor
+**Quality:** Playwright, Vitest, Jest, React Testing Library, GitHub Actions
