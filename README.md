@@ -7,6 +7,7 @@
 Building scalable, high-performance, and user-centric web applications for startups and international teams.
 
 <p>
+  <a href="https://portfolio-tmtuanyds-projects.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View_my_work-111317?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:tmtuanyd@gmail.com"><img src="https://img.shields.io/badge/Email-tmtuanyd%40gmail.com-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/tuan-tran-71ba90191"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Open_to-Roles_%26_Projects-16a34a?style=for-the-badge" alt="Open to roles and projects" />
@@ -172,6 +173,8 @@ I'm open to **senior full-stack and frontend roles** and to **freelance projects
 📧 **Email:** [tmtuanyd@gmail.com](mailto:tmtuanyd@gmail.com)
 
 💼 **LinkedIn:** [linkedin.com/in/tuan-tran-71ba90191](https://www.linkedin.com/in/tuan-tran-71ba90191)
+
+🌐 **Portfolio:** [portfolio-tmtuanyds-projects.vercel.app](https://portfolio-tmtuanyds-projects.vercel.app)
 
 ---
 
